@@ -1,0 +1,3 @@
+[submodule "xsuns_git_submodule_sub"]
+	path = xsuns_git_submodule_sub
+	url = https://github.com/Xsuns/xsuns_git_submodule_sub.git
